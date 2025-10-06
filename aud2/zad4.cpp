@@ -4,8 +4,9 @@
 // Задача 4
 // Да се напише програма за пресметување на аритметичката средина на броевите 3, 5 и 12.
 
-#include<iostream>
+#include <iostream>
 using namespace std;
+
 int main() {
     int a=5, b=3, c=12;
     float ar;
