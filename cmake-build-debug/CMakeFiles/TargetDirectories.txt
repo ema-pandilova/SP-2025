@@ -1,0 +1,11 @@
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/SP_2025.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/hello_world.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/example.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad1.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad2.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad3.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad4.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad5.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad6.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir
