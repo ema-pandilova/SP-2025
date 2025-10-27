@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "zad4ex"
+			"path" : "zad41"
 		}
 	],
 	"backtrace" : 1,
@@ -53,7 +53,7 @@
 			]
 		}
 	],
-	"id" : "zad4ex::@6890427a1f51a3e7e1df",
+	"id" : "zad41::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -69,8 +69,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "zad4ex",
-	"nameOnDisk" : "zad4ex",
+	"name" : "zad41",
+	"nameOnDisk" : "zad41",
 	"paths" : 
 	{
 		"build" : ".",
@@ -91,7 +91,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "aud4/example.cpp",
+			"path" : "aud4/zad1.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
