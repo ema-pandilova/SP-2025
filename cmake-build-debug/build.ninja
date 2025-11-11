@@ -1249,6 +1249,285 @@ build zad68: CXX_EXECUTABLE_LINKER__zad68_Debug CMakeFiles/zad68.dir/aud6/zad8.c
   TARGET_FILE = zad68
   TARGET_PDB = zad68.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target zad71
+
+
+#############################################
+# Order-only phony target for zad71
+
+build cmake_object_order_depends_target_zad71: phony || .
+
+build CMakeFiles/zad71.dir/aud7/zad1.cpp.o: CXX_COMPILER__zad71_unscanned_Debug /home/ema/CLionProjects/SP_2025/aud7/zad1.cpp || cmake_object_order_depends_target_zad71
+  DEP_FILE = CMakeFiles/zad71.dir/aud7/zad1.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zad71.dir
+  OBJECT_FILE_DIR = CMakeFiles/zad71.dir/aud7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zad71
+
+
+#############################################
+# Link the executable zad71
+
+build zad71: CXX_EXECUTABLE_LINKER__zad71_Debug CMakeFiles/zad71.dir/aud7/zad1.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/zad71.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zad71
+  TARGET_PDB = zad71.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zad72
+
+
+#############################################
+# Order-only phony target for zad72
+
+build cmake_object_order_depends_target_zad72: phony || .
+
+build CMakeFiles/zad72.dir/aud7/zad2.cpp.o: CXX_COMPILER__zad72_unscanned_Debug /home/ema/CLionProjects/SP_2025/aud7/zad2.cpp || cmake_object_order_depends_target_zad72
+  DEP_FILE = CMakeFiles/zad72.dir/aud7/zad2.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zad72.dir
+  OBJECT_FILE_DIR = CMakeFiles/zad72.dir/aud7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zad72
+
+
+#############################################
+# Link the executable zad72
+
+build zad72: CXX_EXECUTABLE_LINKER__zad72_Debug CMakeFiles/zad72.dir/aud7/zad2.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/zad72.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zad72
+  TARGET_PDB = zad72.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zad73
+
+
+#############################################
+# Order-only phony target for zad73
+
+build cmake_object_order_depends_target_zad73: phony || .
+
+build CMakeFiles/zad73.dir/aud7/zad3.cpp.o: CXX_COMPILER__zad73_unscanned_Debug /home/ema/CLionProjects/SP_2025/aud7/zad3.cpp || cmake_object_order_depends_target_zad73
+  DEP_FILE = CMakeFiles/zad73.dir/aud7/zad3.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zad73.dir
+  OBJECT_FILE_DIR = CMakeFiles/zad73.dir/aud7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zad73
+
+
+#############################################
+# Link the executable zad73
+
+build zad73: CXX_EXECUTABLE_LINKER__zad73_Debug CMakeFiles/zad73.dir/aud7/zad3.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/zad73.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zad73
+  TARGET_PDB = zad73.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zad74
+
+
+#############################################
+# Order-only phony target for zad74
+
+build cmake_object_order_depends_target_zad74: phony || .
+
+build CMakeFiles/zad74.dir/aud7/zad4.cpp.o: CXX_COMPILER__zad74_unscanned_Debug /home/ema/CLionProjects/SP_2025/aud7/zad4.cpp || cmake_object_order_depends_target_zad74
+  DEP_FILE = CMakeFiles/zad74.dir/aud7/zad4.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zad74.dir
+  OBJECT_FILE_DIR = CMakeFiles/zad74.dir/aud7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zad74
+
+
+#############################################
+# Link the executable zad74
+
+build zad74: CXX_EXECUTABLE_LINKER__zad74_Debug CMakeFiles/zad74.dir/aud7/zad4.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/zad74.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zad74
+  TARGET_PDB = zad74.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zad75
+
+
+#############################################
+# Order-only phony target for zad75
+
+build cmake_object_order_depends_target_zad75: phony || .
+
+build CMakeFiles/zad75.dir/aud7/zad5.cpp.o: CXX_COMPILER__zad75_unscanned_Debug /home/ema/CLionProjects/SP_2025/aud7/zad5.cpp || cmake_object_order_depends_target_zad75
+  DEP_FILE = CMakeFiles/zad75.dir/aud7/zad5.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zad75.dir
+  OBJECT_FILE_DIR = CMakeFiles/zad75.dir/aud7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zad75
+
+
+#############################################
+# Link the executable zad75
+
+build zad75: CXX_EXECUTABLE_LINKER__zad75_Debug CMakeFiles/zad75.dir/aud7/zad5.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/zad75.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zad75
+  TARGET_PDB = zad75.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zad76
+
+
+#############################################
+# Order-only phony target for zad76
+
+build cmake_object_order_depends_target_zad76: phony || .
+
+build CMakeFiles/zad76.dir/aud7/zad6.cpp.o: CXX_COMPILER__zad76_unscanned_Debug /home/ema/CLionProjects/SP_2025/aud7/zad6.cpp || cmake_object_order_depends_target_zad76
+  DEP_FILE = CMakeFiles/zad76.dir/aud7/zad6.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zad76.dir
+  OBJECT_FILE_DIR = CMakeFiles/zad76.dir/aud7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zad76
+
+
+#############################################
+# Link the executable zad76
+
+build zad76: CXX_EXECUTABLE_LINKER__zad76_Debug CMakeFiles/zad76.dir/aud7/zad6.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/zad76.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zad76
+  TARGET_PDB = zad76.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zad77
+
+
+#############################################
+# Order-only phony target for zad77
+
+build cmake_object_order_depends_target_zad77: phony || .
+
+build CMakeFiles/zad77.dir/aud7/zad7.cpp.o: CXX_COMPILER__zad77_unscanned_Debug /home/ema/CLionProjects/SP_2025/aud7/zad7.cpp || cmake_object_order_depends_target_zad77
+  DEP_FILE = CMakeFiles/zad77.dir/aud7/zad7.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zad77.dir
+  OBJECT_FILE_DIR = CMakeFiles/zad77.dir/aud7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zad77
+
+
+#############################################
+# Link the executable zad77
+
+build zad77: CXX_EXECUTABLE_LINKER__zad77_Debug CMakeFiles/zad77.dir/aud7/zad7.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/zad77.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zad77
+  TARGET_PDB = zad77.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zad78
+
+
+#############################################
+# Order-only phony target for zad78
+
+build cmake_object_order_depends_target_zad78: phony || .
+
+build CMakeFiles/zad78.dir/aud7/zad8.cpp.o: CXX_COMPILER__zad78_unscanned_Debug /home/ema/CLionProjects/SP_2025/aud7/zad8.cpp || cmake_object_order_depends_target_zad78
+  DEP_FILE = CMakeFiles/zad78.dir/aud7/zad8.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zad78.dir
+  OBJECT_FILE_DIR = CMakeFiles/zad78.dir/aud7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zad78
+
+
+#############################################
+# Link the executable zad78
+
+build zad78: CXX_EXECUTABLE_LINKER__zad78_Debug CMakeFiles/zad78.dir/aud7/zad8.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/zad78.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zad78
+  TARGET_PDB = zad78.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zad79
+
+
+#############################################
+# Order-only phony target for zad79
+
+build cmake_object_order_depends_target_zad79: phony || .
+
+build CMakeFiles/zad79.dir/aud7/zad9.cpp.o: CXX_COMPILER__zad79_unscanned_Debug /home/ema/CLionProjects/SP_2025/aud7/zad9.cpp || cmake_object_order_depends_target_zad79
+  DEP_FILE = CMakeFiles/zad79.dir/aud7/zad9.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zad79.dir
+  OBJECT_FILE_DIR = CMakeFiles/zad79.dir/aud7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zad79
+
+
+#############################################
+# Link the executable zad79
+
+build zad79: CXX_EXECUTABLE_LINKER__zad79_Debug CMakeFiles/zad79.dir/aud7/zad9.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/zad79.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zad79
+  TARGET_PDB = zad79.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1283,7 +1562,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/ema/CLionProjects/SP_2025/cmake-build-debug
 
-build all: phony SP_2025 hello_world example zad1 zad2 zad3 zad4 zad5 zad8 zad9 zad11 zad12 zad31 zad32 zad33 zad34 zad35 zad36 zad4ex zad41 zad42 zad43 zad44 zad51 zad52 zad53 zad54 zad55 zad56 zad57 zad58 zad61 zad62 zad63 zad64 zad65 zad66 zad67 zad68
+build all: phony SP_2025 hello_world example zad1 zad2 zad3 zad4 zad5 zad8 zad9 zad11 zad12 zad31 zad32 zad33 zad34 zad35 zad36 zad4ex zad41 zad42 zad43 zad44 zad51 zad52 zad53 zad54 zad55 zad56 zad57 zad58 zad61 zad62 zad63 zad64 zad65 zad66 zad67 zad68 zad71 zad72 zad73 zad74 zad75 zad76 zad77 zad78 zad79
 
 # =============================================================================
 # Built-in targets

@@ -53,7 +53,16 @@
 						35,
 						36,
 						37,
-						38
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47
 					]
 				}
 			],
@@ -106,7 +115,16 @@
 						35,
 						36,
 						37,
-						38
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47
 					]
 				}
 			],
@@ -369,6 +387,69 @@
 					"id" : "zad68::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-zad68-Debug-ca6ac9c7fc9b2639df19.json",
 					"name" : "zad68",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad71::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad71-Debug-b8e9d0ae51eb969b4f3e.json",
+					"name" : "zad71",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad72::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad72-Debug-0091ad8cd22893630f22.json",
+					"name" : "zad72",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad73::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad73-Debug-112594d532f296238714.json",
+					"name" : "zad73",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad74::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad74-Debug-f2c933a4c560bfab7c99.json",
+					"name" : "zad74",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad75::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad75-Debug-214c7ec3134f72c42ee2.json",
+					"name" : "zad75",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad76::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad76-Debug-be58cfd2d00e1fd9a9ce.json",
+					"name" : "zad76",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad77::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad77-Debug-2278a8d0dcf664643ed1.json",
+					"name" : "zad77",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad78::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad78-Debug-f26754ee6dc0ffb56c2b.json",
+					"name" : "zad78",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad79::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad79-Debug-2e29d9d121ce1340c0e3.json",
+					"name" : "zad79",
 					"projectIndex" : 0
 				},
 				{
