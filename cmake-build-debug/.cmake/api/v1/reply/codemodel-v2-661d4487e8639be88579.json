@@ -75,7 +75,16 @@
 						57,
 						58,
 						59,
-						60
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69
 					]
 				}
 			],
@@ -150,7 +159,16 @@
 						57,
 						58,
 						59,
-						60
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69
 					]
 				}
 			],
@@ -182,6 +200,69 @@
 					"id" : "zad1::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-zad1-Debug-5cf1a29bfdbd5883658f.json",
 					"name" : "zad1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad101::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad101-Debug-a1fee4722bd9050f24cc.json",
+					"name" : "zad101",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad102::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad102-Debug-90276007c757e5e969e2.json",
+					"name" : "zad102",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad103::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad103-Debug-4eb4e070c8f4cf375bd0.json",
+					"name" : "zad103",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad104::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad104-Debug-f55a332b37d04829192b.json",
+					"name" : "zad104",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad105::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad105-Debug-ea5cb0be43e39a737aaa.json",
+					"name" : "zad105",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad106::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad106-Debug-84558516f3cd1de48aac.json",
+					"name" : "zad106",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad107::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad107-Debug-dde4b202401f233c6095.json",
+					"name" : "zad107",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad108::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad108-Debug-ffc80c5a7830c1c95286.json",
+					"name" : "zad108",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad10example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad10example-Debug-9ae61f4e653388e3960f.json",
+					"name" : "zad10example",
 					"projectIndex" : 0
 				},
 				{
