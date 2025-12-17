@@ -8,18 +8,16 @@ using namespace std;
 //   x[n] = (n - 1) * x[n - 1] / n + x[n - 2] / n
 
 float xnn(int n) {
-    if(n==1 || n==2) {
+    if (n == 1 || n == 2) {
         return n;
-    }
-    else {
-        return (n-1.0)/n * xnn(n-1) + 1.0/n * xnn(n-2);
+    } else {
+        return (n - 1.0) / n * xnn(n - 1) + 1.0 / n * xnn(n - 2);
     }
 }
 
 int main() {
     int n;
     cin >> n;
-    cout << "xnn(" << n << ") = " <<  xnn(n) << endl;
+    cout << "xnn(" << n << ") = " << xnn(n) << endl;
     return 0;
-
 }

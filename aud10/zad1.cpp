@@ -8,31 +8,31 @@ using namespace std;
 // - користете рекурзивна функција за пресметување на факториел на еден природен број.
 
 long factorial(int n) {
-    if(n==1) {
+    if (n == 1) {
         return 1;
-    }
-    else {
-        return n*factorial(n-1);
+    } else {
+        return n * factorial(n - 1);
     }
 }
+
 int sumOfFirstN(int n) {
-    if(n==1) {
+    if (n == 1) {
         return 1;
-    }
-    else {
-        return n+sumOfFirstN(n-1);
+    } else {
+        return n + sumOfFirstN(n - 1);
     }
 }
+
 int sumOfN(int n) {
-    if(n==1) {
+    if (n == 1) {
         return 1;
-    }
-    else {
-        return factorial(sumOfFirstN(n))+sumOfN(n-1);
+    } else {
+        return factorial(sumOfFirstN(n)) + sumOfN(n - 1);
     }
 }
+
 int main() {
     int n;
-    cin>>n;
-    cout<<sumOfN(n);
+    cin >> n;
+    cout << sumOfN(n);
 }

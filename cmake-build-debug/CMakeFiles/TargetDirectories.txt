@@ -67,6 +67,14 @@
 /home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad106.dir
 /home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad107.dir
 /home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad108.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad109.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad110.dir
 /home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad10example.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad111.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad112.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad113.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad114.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad115.dir
+/home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/zad116.dir
 /home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/ema/CLionProjects/SP_2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir
